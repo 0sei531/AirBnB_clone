@@ -1,11 +1,15 @@
 #AirBnB Clone - The Console
+---------------------------
 Description
+----------------
 This project is a fundamental step in the Alx Software Engineer program, aiming to create a comprehensive AirBnB clone. The initial phase involves developing a custom command-line interface (CLI) for data management and establishing essential base classes for data storage.
 
 Usage
+---------
 The console operates both in interactive and non-interactive modes, similar to a Unix shell. Users are prompted with the (hbnb) command line, where they can enter various commands to interact with the application.
 
 Commands
+---------
 Run the console: ./console.py
 Quit the console: (hbnb) quit
 Display help for a command: (hbnb) help <command>
