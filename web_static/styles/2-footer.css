@@ -1,10 +1,18 @@
-footer div {
-    background-color: #00FF00;
-    height: 60px;
-    width: 100%;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    line-height: 60px;
-}
+/*
+ * === Footer style ===
+ */
 
+/* Footer style */
+footer {
+	align-items: center;
+  background: linear-gradient(to right, #4CAF50, #00FF00);
+  bottom: 0;
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  padding: 0 20px;
+  position: absolute;
+  width: 100%;
+  border-top: 1px solid #ccc;
+  box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.1);
+}

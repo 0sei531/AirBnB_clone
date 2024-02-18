@@ -1,8 +1,11 @@
-/* Global style */
+/* styles/103-common.css */
+
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+    color: #333; /* Default text color */
+    background-color: #fff; /* Default background color */
 }
 
 .container {
